@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x85968aa9D723Cc17d384fc90b1F62f7785Bcb7F6",
+  "SCAN_LINK": "https://etherscan.io/token/0x85968aa9D723Cc17d384fc90b1F62f7785Bcb7F6",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "PNGWEN",
+  "SYMBOL": "PNGWEN",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 42000000000000000,
+  "DISPLAY_COST": 0.0420,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pngwen",
+  "SHOW_BACKGROUND": true
+}
